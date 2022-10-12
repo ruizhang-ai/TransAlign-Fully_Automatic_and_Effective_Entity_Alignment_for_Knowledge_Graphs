@@ -1,0 +1,1 @@
+# TransAlign-Fully_Automatic_and_Effective_Entity_Alignment_for_Knowledge_Graphs
